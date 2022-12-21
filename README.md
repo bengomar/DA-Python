@@ -1,4 +1,4 @@
-# DA-Python   - Projet 2 -
+# DA-Python   - Projet 2
 
 ## Création d'un environment virtuel
 ```python -m venv env```
