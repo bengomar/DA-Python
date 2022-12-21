@@ -1,12 +1,12 @@
-# DA-Python  - Projet 2 -
+# DA-Python   - Projet 2 -
 
-# Création d'un environment virtuel
+## Création d'un environment virtuel
 ```python -m venv env```
 
-# Installation des dépendances du projet
+## Installation des dépendances du projet
 ```pip install -r requirements.txt```
 
-# Description du projet
+## Description du projet
 ```./book_to_scrape_ob.py```
 
 Programme capable d'extraire des informations de livres en vente sur le site http://books.toscrape.com/.
