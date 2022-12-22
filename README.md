@@ -19,6 +19,6 @@ et enregistre l'image représentant sa couverture.
 ```python book_to_scrape_ob.py```
     
 - le répertoire **categories** est créé à la racine du script.
-- sous **categories**, tous les répertoires des **noms de catégories** sont créés " _(Travel)_.
-- sous les répertoires des **noms de catégories** un fichier **csv** est généré _(Travel_details.csv)_ ainsi qu'un repertoires **images** contenant un fichier jpg de la couverture du livre.
+- sous **categories**, tous les répertoires des **noms de catégories** sont créés " _(ex: Travel)_.
+- sous les répertoires des **noms de catégories** un fichier **csv** est généré _(ex: Travel_details.csv)_ ainsi qu'un repertoires **images** contenant les fichiers jpg des couverture des livres de la catégorie concernée.
 
