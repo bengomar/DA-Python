@@ -16,7 +16,7 @@ et enregistre l'image représentant sa couverture.
 
 ### Execution du programme :
     
-    ```python book_to_scrape_ob.py```
+```python book_to_scrape_ob.py```
     
 - le répertoire **categories** est créé à la racine du script.
 - sous **categories**, tous les répertoires des **noms de catégories** sont créés " _(Travel)_.
