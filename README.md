@@ -7,7 +7,6 @@
 ```pip install -r requirements.txt```
 
 ## Description du projet
-```./book_to_scrape_ob.py```
 
 Programme capable d'extraire des informations de livres en vente sur le site http://books.toscrape.com/.
 
@@ -16,6 +15,8 @@ Il génère pour chaque catégorie un fichier csv contenant les informations scr
 et enregistre l'image représentant sa couverture.
 
 ### Execution du programme :
+    
+    ```python book_to_scrape_ob.py```
     
 - le répertoire **categories** est créé à la racine du script.
 - sous **categories**, tous les répertoires des **noms de catégories** sont créés " _(Travel)_.
