@@ -1,7 +1,10 @@
 # DA-Python   - Projet 2
 
 ## Création d'un environment virtuel
-```python -m venv env```
+```
+python -m venv env
+source env/bin/activate
+```
 
 ## Installation des dépendances du projet
 ```pip install -r requirements.txt```
@@ -20,5 +23,5 @@ et enregistre l'image représentant sa couverture.
     
 - le répertoire **categories** est créé à la racine du script.
 - sous **categories**, tous les répertoires des **noms de catégories** sont créés " _(ex: Travel)_.
-- sous les répertoires des **noms de catégories** un fichier **csv** est généré _(ex: Travel_details.csv)_ ainsi qu'un repertoires **images** contenant les fichiers jpg des couverture des livres de la catégorie concernée.
+- sous les répertoires des **noms de catégories** un fichier **csv** est généré _(ex: Travel_details.csv)_ ainsi qu'un répertoire **images** contenant les fichiers jpg des couvertures des livres de la catégorie concernée.
 
