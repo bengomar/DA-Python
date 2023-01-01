@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup as bs
 
 
 def scrape_book(page_url: str) -> dict:
-    """Fonction qui récupère toutes les données pour un livre et les écrit dans un fichier csv"""
+    """Fonction qui récupère toute les données pour un livre et les écrit dans un fichier csv"""
 
     response = requests.get(page_url)
     html = response.content
