@@ -11,7 +11,7 @@ source env/bin/activate
 
 ## Description du projet
 
-Programme capable d'extraire des informations de livres en vente sur le site http://books.toscrape.com/.
+PROGRAMME capable d'extraire des informations de livres en vente sur le site http://books.toscrape.com/.
 
 Ce script _(un scraper)_ récupère les données des livres en parcourant toutes les catégories.
 Il génère pour chaque catégorie un fichier csv contenant les informations scrapées de chaque livre

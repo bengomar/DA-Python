@@ -1,6 +1,6 @@
 import csv
 import os
-import re
+# import re
 from urllib.request import urlretrieve
 
 import requests
